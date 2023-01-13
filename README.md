@@ -16,9 +16,12 @@ OnlyFrogs is the next-generation memecoin for the Solana Blockchain, by the peop
 - To support Stream Protocol ecosystem, and platforms development
 - To support Solana community and developers
 - To support Solana NFT artists and designers
+- To Create and support OnlyFrogs brand, and e-eommerce platform
 
 ### Use cases
 
+- OnlyFrogs Community Platform
+- OnlyFrogs e-commerce and brand products
 - NFT marketplaces
 - Web3 payments
 - Wallet App
