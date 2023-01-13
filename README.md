@@ -10,12 +10,12 @@ OnlyFrogs is the next-generation memecoin for the Solana Blockchain, by the peop
 
 ## Purposes & Use Cases
 
-- To support StreamPay Web3 payments gateways
-- To support Stream Protocol ecosystem, and platforms development
+- To support OnlyFrogs developers, NFT artists, and designers
 - To support Stream Protocol and StreamPay developers
+- To support StreamPay Web3 payments platform, and payment gateways
+- To support Stream Protocol ecosystem, and platforms development
 - To support Solana community and developers
-- To support NFT artists, OnlyFrogs Designers
-- To support Solana NFT artists and Designers
+- To support Solana NFT artists and designers
 
 ### Use cases
 
@@ -24,7 +24,7 @@ OnlyFrogs is the next-generation memecoin for the Solana Blockchain, by the peop
 - Wallet App
 - Solana dApps
 - OnlySwap App
-- To collect trx. fees
+- Tx. fees
 - Web3 Payment Gateways
 - Payment streams
 - Governance DAO
